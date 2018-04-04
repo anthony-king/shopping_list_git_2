@@ -6,4 +6,5 @@
 * salsa
 * sour cream
 * 2 bags chips
-* item added locally    
+* item added locally
+* add remote item via GitHub interface
