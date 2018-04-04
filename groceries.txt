@@ -4,3 +4,6 @@
 * 4 apples
 * 6 avocadoes
 * salsa
+* napkins 
+* paper towels
+* plastic cups
