@@ -6,3 +6,4 @@
 * salsa
 * sour cream
 * 2 bags chips
+* item added locally    
